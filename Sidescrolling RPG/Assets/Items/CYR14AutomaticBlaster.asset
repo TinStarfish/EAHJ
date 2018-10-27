@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9d1701993ac015f4fa3d88e0cdc50cee, type: 3}
+  m_Name: CYR14AutomaticBlaster
+  m_EditorClassIdentifier: 
+  name: CYR 14 Clear Automatic Blaster
+  icon: {fileID: 21300000, guid: 1a884e553dabd3848835cc01f4c90adc, type: 3}
+  isDefaultItem: 0
+  Damage: 2
+  CrystalPower: 10
+  Speed: 2
+  MagicCost: 2
+  projectileSpeed: 2000
+  weaponModel: {fileID: 1912473728933908, guid: 988c80587ca889f499b81f64494f1609,
+    type: 2}

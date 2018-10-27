@@ -1,0 +1,51 @@
+fileFormatVersion: 2
+guid: 9acd16b987414324ea22c6fd74a9dcde
+timeCreated: 1536716360
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - playerObject: {instanceID: 0}
+  - potion_0: {fileID: 21300000, guid: 25e85659ec68465488a7752b4b2ec44f, type: 3}
+  - potion_2: {fileID: 21300000, guid: 87426116d57d4b94599c0c2253f31f3e, type: 3}
+  - Helm_0: {fileID: 21300000, guid: bbeac75c66cab144da92761eb22b4bea, type: 3}
+  - Armor_0: {fileID: 21300000, guid: f49cbdd4b1ff64242bc77841ebfb10b4, type: 3}
+  - legs_0: {fileID: 21300000, guid: 80af08003d1874f47abae86093cd0d81, type: 3}
+  - boots_0: {fileID: 21300000, guid: 39d347ccde083ba4fb29cff3388323e0, type: 3}
+  - sword_0: {fileID: 21300000, guid: 9987eeb840da4814aa01748d461f800f, type: 3}
+  - slot_0: {instanceID: 0}
+  - slot_1: {instanceID: 0}
+  - slot_2: {instanceID: 0}
+  - slot_3: {instanceID: 0}
+  - slot_4: {instanceID: 0}
+  - slot_5: {instanceID: 0}
+  - slot_6: {instanceID: 0}
+  - slot_7: {instanceID: 0}
+  - slot_8: {instanceID: 0}
+  - slot_9: {instanceID: 0}
+  - slot_10: {instanceID: 0}
+  - slot_11: {instanceID: 0}
+  - slot_12: {instanceID: 0}
+  - slot_13: {instanceID: 0}
+  - slot_14: {instanceID: 0}
+  - slot_15: {instanceID: 0}
+  - slot_16: {instanceID: 0}
+  - slot_17: {instanceID: 0}
+  - slot_18: {instanceID: 0}
+  - slot_19: {instanceID: 0}
+  - slot_head: {instanceID: 0}
+  - slot_hands: {instanceID: 0}
+  - slot_body: {instanceID: 0}
+  - slot_legs: {instanceID: 0}
+  - slot_feet: {instanceID: 0}
+  - slot_hand_0: {instanceID: 0}
+  - slot_hand_1: {instanceID: 0}
+  - itemName: {instanceID: 0}
+  - itemDesc: {instanceID: 0}
+  - itemQuality: {instanceID: 0}
+  - itemEffects: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
